@@ -55,7 +55,7 @@
     <div class="social-icons mt-3">
       <a href="https://x.com/Just_Luka4u" target="_blank"><i class="fab fa-twitter"></i></a>
       <a href="https://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="https://www.linkedin.com/in/sabastine-chibuike-aguluka-9872b9119/" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://github.com/sabastine4u?tab=repositories" target="_blank"><i class="fab fa-github"></i></a>
     </div>
 
     <a href="/" class="btn btn-primary mt-4">Back to HomePage</a>
